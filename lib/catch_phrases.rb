@@ -13,3 +13,8 @@ def link
   assist_Item = "It's Dangerous To Go Alone! Take This."
   puts assist_Item
 end
+
+def any_phrase(phrase)
+  phrase = "Do a Barrel Roll!"
+  puts phrase
+end
